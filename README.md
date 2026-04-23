@@ -1,6 +1,6 @@
 # Elite-universal
 Sum basic asi shit basically sum utilities
-# Elite Universal V10.2 🌍
+# Elite Universal V10.6.7 🌍
 
 Un script universal para Roblox optimizado para dispositivos móviles y PC, diseñado con una interfaz moderna inspirada en juegos competitivos.
 
