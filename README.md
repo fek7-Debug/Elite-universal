@@ -14,4 +14,5 @@ Un script universal para Roblox optimizado para dispositivos móviles y PC, dise
 Copia y pega el siguiente código en tu ejecutor favorito:
 
 ```lua
-https://raw.githubusercontent.com/fek7-Debug/Elite-universal/refs/heads/main/main.lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fek7-Debug/Elite-universal/refs/heads/main/main.lua"))()
+
